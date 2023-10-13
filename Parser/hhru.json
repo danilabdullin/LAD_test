@@ -1,0 +1,1520 @@
+[{
+  "_id": {
+    "$oid": "65291c6c79e6450dd36fd684"
+  },
+  "name": "Data Scientist в Trust & Safety",
+  "experience": "3–6 лет",
+  "salary_": []
+},{
+  "_id": {
+    "$oid": "65291c6d79e6450dd36fd685"
+  },
+  "name": "Data scientict (NLP)",
+  "experience": "1–3 года",
+  "salary_": []
+},{
+  "_id": {
+    "$oid": "65291c6f79e6450dd36fd686"
+  },
+  "name": "Разработчик курса/методист/преподаватель по Data Science",
+  "experience": "3–6 лет",
+  "salary_": []
+},{
+  "_id": {
+    "$oid": "65291c7079e6450dd36fd687"
+  },
+  "name": "Product Owner (Big Data, ML, видеоаналитика, рекомендательные системы)",
+  "experience": "3–6 лет",
+  "salary_": []
+},{
+  "_id": {
+    "$oid": "65291c7179e6450dd36fd688"
+  },
+  "name": "Assistant Professor - Data Science&AI (eng)",
+  "experience": "1–3 года",
+  "salary_": []
+},{
+  "_id": {
+    "$oid": "65291c7479e6450dd36fd689"
+  },
+  "name": "Senior Data Scientist [команда Marketing]",
+  "experience": "3–6 лет",
+  "salary_": []
+},{
+  "_id": {
+    "$oid": "65291c7579e6450dd36fd68a"
+  },
+  "name": "Data Engineer в команду «Сеть Продаж»",
+  "experience": "3–6 лет",
+  "salary_": []
+},{
+  "_id": {
+    "$oid": "65291c7679e6450dd36fd68b"
+  },
+  "name": "Аналитик данных ML/Data Science",
+  "experience": "1–3 года",
+  "salary_": []
+},{
+  "_id": {
+    "$oid": "65291c7779e6450dd36fd68c"
+  },
+  "name": "Middle/Senior Data Scientist",
+  "experience": "3–6 лет",
+  "salary_": []
+},{
+  "_id": {
+    "$oid": "65291c7a79e6450dd36fd68d"
+  },
+  "name": "ML developer",
+  "experience": "не требуется",
+  "salary_": []
+},{
+  "_id": {
+    "$oid": "65291c7c79e6450dd36fd68e"
+  },
+  "name": "Data Scientist, Маркетплейс, Антибот",
+  "experience": "1–3 года",
+  "salary_": []
+},{
+  "_id": {
+    "$oid": "65291c7c79e6450dd36fd68f"
+  },
+  "name": "Junior Data Engineer",
+  "experience": "1–3 года",
+  "salary_": []
+},{
+  "_id": {
+    "$oid": "65291c7e79e6450dd36fd690"
+  },
+  "name": "Data Engineer",
+  "experience": "3–6 лет",
+  "salary_": []
+},{
+  "_id": {
+    "$oid": "65291c8079e6450dd36fd691"
+  },
+  "name": "Менеджер образовательных продуктов (Анализ данных)",
+  "experience": "1–3 года",
+  "salary_": []
+},{
+  "_id": {
+    "$oid": "65291c8179e6450dd36fd692"
+  },
+  "name": "Senior Data Engineer (Azure)",
+  "experience": "1–3 года",
+  "salary_": []
+},{
+  "_id": {
+    "$oid": "65291c8279e6450dd36fd693"
+  },
+  "name": "Middle / Senior Data Scientist на NLP домен",
+  "experience": "3–6 лет",
+  "salary_": []
+},{
+  "_id": {
+    "$oid": "65291c8379e6450dd36fd694"
+  },
+  "name": "BI разработчик",
+  "experience": "3–6 лет",
+  "salary_": []
+},{
+  "_id": {
+    "$oid": "65291c8679e6450dd36fd695"
+  },
+  "name": "Старший риск-аналитик",
+  "experience": "3–6 лет",
+  "salary_": []
+},{
+  "_id": {
+    "$oid": "65291c8779e6450dd36fd696"
+  },
+  "name": "Product analyst",
+  "experience": "3–6 лет",
+  "salary_": []
+},{
+  "_id": {
+    "$oid": "65291c8979e6450dd36fd697"
+  },
+  "name": "Программист Python",
+  "experience": "3–6 лет",
+  "salary_": []
+},{
+  "_id": {
+    "$oid": "65291c8979e6450dd36fd698"
+  },
+  "name": "Data Engineer (группа нейронных сетей)",
+  "experience": "1–3 года",
+  "salary_": []
+},{
+  "_id": {
+    "$oid": "65291c8c79e6450dd36fd699"
+  },
+  "name": "Комьюнити-менеджер",
+  "experience": "1–3 года",
+  "salary_": []
+},{
+  "_id": {
+    "$oid": "65291c8d79e6450dd36fd69a"
+  },
+  "name": "Руководитель группы разработки ИТ Team Lead IT Full Stack Develop Frontend and Backend",
+  "experience": "не требуется",
+  "salary_": []
+},{
+  "_id": {
+    "$oid": "65291c8f79e6450dd36fd69b"
+  },
+  "name": "Assistant Professor - Software Development and Engineering (eng)",
+  "experience": "не требуется",
+  "salary_": []
+},{
+  "_id": {
+    "$oid": "65291c9079e6450dd36fd69c"
+  },
+  "name": "Full Stack developer Middle (C# NET 4.8 JS), удаленно",
+  "experience": "3–6 лет",
+  "salary_": []
+},{
+  "_id": {
+    "$oid": "65291c9279e6450dd36fd69d"
+  },
+  "name": "Главный специалист карточных операций",
+  "experience": "1–3 года",
+  "salary_": []
+},{
+  "_id": {
+    "$oid": "65291c9379e6450dd36fd69e"
+  },
+  "name": "Senior ML Engineer (Voice, Real-Time ASR)",
+  "experience": "3–6 лет",
+  "salary_": []
+},{
+  "_id": {
+    "$oid": "65291c9479e6450dd36fd69f"
+  },
+  "name": "Middle/Senior Продуктовый аналитик в направление монетизации",
+  "experience": "1–3 года",
+  "salary_": []
+},{
+  "_id": {
+    "$oid": "65291c9679e6450dd36fd6a0"
+  },
+  "name": "Аналитик по оценке дебиторской задолженности / проблемных активов",
+  "experience": "1–3 года",
+  "salary_": []
+},{
+  "_id": {
+    "$oid": "65291c9879e6450dd36fd6a1"
+  },
+  "name": "Специалист по валидации ML моделей (Управление валидации)",
+  "experience": "1–3 года",
+  "salary_": []
+},{
+  "_id": {
+    "$oid": "65291c9979e6450dd36fd6a2"
+  },
+  "name": "Методолог (методист) ИТ образовательных программ",
+  "experience": "1–3 года",
+  "salary_": []
+},{
+  "_id": {
+    "$oid": "65291c9a79e6450dd36fd6a3"
+  },
+  "name": "Lead Software Engineer",
+  "experience": "более 6 лет",
+  "salary_": []
+},{
+  "_id": {
+    "$oid": "65291c9c79e6450dd36fd6a4"
+  },
+  "name": "Менеджер pre-sale",
+  "experience": "3–6 лет",
+  "salary_": []
+},{
+  "_id": {
+    "$oid": "65291c9e79e6450dd36fd6a5"
+  },
+  "name": "Senior Python Developer",
+  "experience": "3–6 лет",
+  "salary_": []
+},{
+  "_id": {
+    "$oid": "65291c9f79e6450dd36fd6a6"
+  },
+  "name": "Старший аналитик Отдела по управлению портфелем розничного бизнеса",
+  "experience": "1–3 года",
+  "salary_": []
+},{
+  "_id": {
+    "$oid": "65291ca179e6450dd36fd6a7"
+  },
+  "name": "Ведущий портфельный аналитик",
+  "experience": "1–3 года",
+  "salary_": []
+},{
+  "_id": {
+    "$oid": "65291ca179e6450dd36fd6a8"
+  },
+  "name": "Младший Продюсер",
+  "experience": "1–3 года",
+  "salary_": []
+},{
+  "_id": {
+    "$oid": "65291ca579e6450dd36fd6a9"
+  },
+  "name": "TechLead в команду Alpha (Python)",
+  "experience": "более 6 лет",
+  "salary_": []
+},{
+  "_id": {
+    "$oid": "65291ca579e6450dd36fd6aa"
+  },
+  "name": "Системный аналитик",
+  "experience": "1–3 года",
+  "salary_": []
+},{
+  "_id": {
+    "$oid": "65291ca679e6450dd36fd6ab"
+  },
+  "name": "Программист-исследователь (AdTech)",
+  "experience": "1–3 года",
+  "salary_": []
+},{
+  "_id": {
+    "$oid": "65291ca779e6450dd36fd6ac"
+  },
+  "name": "Эксперт 1С",
+  "experience": "3–6 лет",
+  "salary_": []
+},{
+  "_id": {
+    "$oid": "65291ca879e6450dd36fd6ad"
+  },
+  "name": "Back-end developer",
+  "experience": "3–6 лет",
+  "salary_": []
+},{
+  "_id": {
+    "$oid": "65291caa79e6450dd36fd6ae"
+  },
+  "name": "Разработчик BI",
+  "experience": "1–3 года",
+  "salary_": []
+},{
+  "_id": {
+    "$oid": "65291cab79e6450dd36fd6af"
+  },
+  "name": "Head of engineering (Nuclear Physics)",
+  "experience": "1–3 года",
+  "salary_": []
+},{
+  "_id": {
+    "$oid": "65291cac79e6450dd36fd6b0"
+  },
+  "name": "Senior ML engineer, Large Language & Behavior Models (LLM)",
+  "experience": "3–6 лет",
+  "salary_": []
+},{
+  "_id": {
+    "$oid": "65291cad79e6450dd36fd6b1"
+  },
+  "name": "Product Manager (Rare Diseases)",
+  "experience": "3–6 лет",
+  "salary_": []
+},{
+  "_id": {
+    "$oid": "65291cae79e6450dd36fd6b2"
+  },
+  "name": "Product Manager (Onco)",
+  "experience": "3–6 лет",
+  "salary_": []
+},{
+  "_id": {
+    "$oid": "65291caf79e6450dd36fd6b3"
+  },
+  "name": "Middle Product Analyst",
+  "experience": "3–6 лет",
+  "salary_": []
+},{
+  "_id": {
+    "$oid": "65291cb179e6450dd36fd6b4"
+  },
+  "name": "TechLead Research Engineer (NLP/Speech)",
+  "experience": "3–6 лет",
+  "salary_": []
+},{
+  "_id": {
+    "$oid": "65291cb279e6450dd36fd6b5"
+  },
+  "name": "Старший PR Manager",
+  "experience": "3–6 лет",
+  "salary_": []
+},{
+  "_id": {
+    "$oid": "65291cb379e6450dd36fd6b6"
+  },
+  "name": "Системный аналитик (интеграция)",
+  "experience": "1–3 года",
+  "salary_": []
+},{
+  "_id": {
+    "$oid": "65291cb479e6450dd36fd6b7"
+  },
+  "name": "Senior Compiler Developer - System Verification Tools",
+  "experience": "3–6 лет",
+  "salary_": []
+},{
+  "_id": {
+    "$oid": "65291cb579e6450dd36fd6b8"
+  },
+  "name": "Senior ML Engineer, Computer Vision",
+  "experience": "3–6 лет",
+  "salary_": []
+},{
+  "_id": {
+    "$oid": "65291cb679e6450dd36fd6b9"
+  },
+  "name": "Middle/Senior MLOps, команда инфраструктуры ML",
+  "experience": "3–6 лет",
+  "salary_": []
+},{
+  "_id": {
+    "$oid": "65291cb779e6450dd36fd6ba"
+  },
+  "name": "Владелец моделей розничных рисков",
+  "experience": "более 6 лет",
+  "salary_": []
+},{
+  "_id": {
+    "$oid": "65291cb979e6450dd36fd6bb"
+  },
+  "name": "Campaign Manager (Клиентская аналитика)",
+  "experience": "3–6 лет",
+  "salary_": []
+},{
+  "_id": {
+    "$oid": "65291cb979e6450dd36fd6bc"
+  },
+  "name": "Software Architect (SWA)",
+  "experience": "3–6 лет",
+  "salary_": []
+},{
+  "_id": {
+    "$oid": "65291cbb79e6450dd36fd6bd"
+  },
+  "name": "Специалист по развитию HR-бренда и сообществ",
+  "experience": "3–6 лет",
+  "salary_": []
+},{
+  "_id": {
+    "$oid": "65291cbc79e6450dd36fd6be"
+  },
+  "name": "Political analyst",
+  "experience": "более 6 лет",
+  "salary_": []
+},{
+  "_id": {
+    "$oid": "65291cbd79e6450dd36fd6bf"
+  },
+  "name": "Аналитик данных",
+  "experience": "1–3 года",
+  "salary_": "до 220000 ₽"
+},{
+  "_id": {
+    "$oid": "65291cbf79e6450dd36fd6c0"
+  },
+  "name": "Influence marketing teamlead",
+  "experience": "3–6 лет",
+  "salary_": []
+},{
+  "_id": {
+    "$oid": "65291cc079e6450dd36fd6c1"
+  },
+  "name": "Junior Java разработчик",
+  "experience": "1–3 года",
+  "salary_": []
+},{
+  "_id": {
+    "$oid": "65291cc279e6450dd36fd6c2"
+  },
+  "name": "Requirements and Specification Engineer",
+  "experience": "3–6 лет",
+  "salary_": []
+},{
+  "_id": {
+    "$oid": "65291cc379e6450dd36fd6c3"
+  },
+  "name": "Директор по сервису",
+  "experience": "3–6 лет",
+  "salary_": []
+},{
+  "_id": {
+    "$oid": "65291cc579e6450dd36fd6c4"
+  },
+  "name": "Consumer Insights Manager / Researcher / Analyst",
+  "experience": "1–3 года",
+  "salary_": []
+},{
+  "_id": {
+    "$oid": "65291cc679e6450dd36fd6c5"
+  },
+  "name": "Риск-аналитик.",
+  "experience": "1–3 года",
+  "salary_": []
+},{
+  "_id": {
+    "$oid": "65291cc779e6450dd36fd6c6"
+  },
+  "name": "Project manager GUIDO",
+  "experience": "3–6 лет",
+  "salary_": []
+},{
+  "_id": {
+    "$oid": "65291cc979e6450dd36fd6c7"
+  },
+  "name": "Системный аналитик Hadoop (Витрины ПИК)",
+  "experience": "3–6 лет",
+  "salary_": []
+},{
+  "_id": {
+    "$oid": "65291cca79e6450dd36fd6c8"
+  },
+  "name": "Portfolio Manager (Goods Analytcs)",
+  "experience": "более 6 лет",
+  "salary_": []
+},{
+  "_id": {
+    "$oid": "65291ccb79e6450dd36fd6c9"
+  },
+  "name": "Senior Consumer Insights Manager",
+  "experience": "1–3 года",
+  "salary_": []
+},{
+  "_id": {
+    "$oid": "65291ccc79e6450dd36fd6ca"
+  },
+  "name": "Системный аналитик DWH в Доставку",
+  "experience": "3–6 лет",
+  "salary_": []
+},{
+  "_id": {
+    "$oid": "65291cce79e6450dd36fd6cb"
+  },
+  "name": "Системный аналитик (middle)",
+  "experience": "3–6 лет",
+  "salary_": []
+},{
+  "_id": {
+    "$oid": "65291ccf79e6450dd36fd6cc"
+  },
+  "name": "Преподаватель на курс \"Введение в молекулярную биологию и генетику\"",
+  "experience": "1–3 года",
+  "salary_": []
+},{
+  "_id": {
+    "$oid": "65291cd179e6450dd36fd6cd"
+  },
+  "name": "Fraud Analyst (сессионный)",
+  "experience": "3–6 лет",
+  "salary_": []
+},{
+  "_id": {
+    "$oid": "65291cd279e6450dd36fd6ce"
+  },
+  "name": "Портфельный аналитик по МСБ (Банк)",
+  "experience": "1–3 года",
+  "salary_": []
+},{
+  "_id": {
+    "$oid": "65291cd379e6450dd36fd6cf"
+  },
+  "name": "Инженер данных в Яндекс Доставку",
+  "experience": "3–6 лет",
+  "salary_": []
+},{
+  "_id": {
+    "$oid": "65291cd479e6450dd36fd6d0"
+  },
+  "name": "Junior full-stack developer",
+  "experience": "не требуется",
+  "salary_": []
+},{
+  "_id": {
+    "$oid": "65291cd579e6450dd36fd6d1"
+  },
+  "name": "Computer Vision engineer",
+  "experience": "3–6 лет",
+  "salary_": []
+},{
+  "_id": {
+    "$oid": "65291cd779e6450dd36fd6d2"
+  },
+  "name": "Frontend-разработчик",
+  "experience": "3–6 лет",
+  "salary_": []
+},{
+  "_id": {
+    "$oid": "65291cd879e6450dd36fd6d3"
+  },
+  "name": "Аналитик данных",
+  "experience": "3–6 лет",
+  "salary_": []
+},{
+  "_id": {
+    "$oid": "65291cd979e6450dd36fd6d4"
+  },
+  "name": "Python developer",
+  "experience": "3–6 лет",
+  "salary_": []
+},{
+  "_id": {
+    "$oid": "65291cdb79e6450dd36fd6d5"
+  },
+  "name": "DevOps Engineer",
+  "experience": "3–6 лет",
+  "salary_": []
+},{
+  "_id": {
+    "$oid": "65291cdc79e6450dd36fd6d6"
+  },
+  "name": "Senior ML engineer",
+  "experience": "3–6 лет",
+  "salary_": []
+},{
+  "_id": {
+    "$oid": "65291cdd79e6450dd36fd6d7"
+  },
+  "name": "Менеджер центра поддержки и мониторинга образовательных программ",
+  "experience": "1–3 года",
+  "salary_": []
+},{
+  "_id": {
+    "$oid": "65291cdf79e6450dd36fd6d8"
+  },
+  "name": "Senior Python developer",
+  "experience": "3–6 лет",
+  "salary_": []
+},{
+  "_id": {
+    "$oid": "65291ce079e6450dd36fd6d9"
+  },
+  "name": "Senior Python developer",
+  "experience": "3–6 лет",
+  "salary_": []
+},{
+  "_id": {
+    "$oid": "65291ce179e6450dd36fd6da"
+  },
+  "name": "Middle backend developer ASP.Net Core",
+  "experience": "3–6 лет",
+  "salary_": []
+},{
+  "_id": {
+    "$oid": "65291ce379e6450dd36fd6db"
+  },
+  "name": "Software Engineering Manager",
+  "experience": "более 6 лет",
+  "salary_": []
+},{
+  "_id": {
+    "$oid": "65291ce479e6450dd36fd6dc"
+  },
+  "name": "Специалист по валидации NLP моделей (Управление валидации)",
+  "experience": "1–3 года",
+  "salary_": []
+},{
+  "_id": {
+    "$oid": "65291ce579e6450dd36fd6dd"
+  },
+  "name": "MLOps engineer",
+  "experience": "3–6 лет",
+  "salary_": []
+},{
+  "_id": {
+    "$oid": "65291ce679e6450dd36fd6de"
+  },
+  "name": "Product Owner в кластер Тестирования продуктов",
+  "experience": "3–6 лет",
+  "salary_": []
+},{
+  "_id": {
+    "$oid": "65291ce779e6450dd36fd6df"
+  },
+  "name": "ModelOps specialist",
+  "experience": "1–3 года",
+  "salary_": []
+},{
+  "_id": {
+    "$oid": "65291ce979e6450dd36fd6e0"
+  },
+  "name": "ML разработчик-эксперт",
+  "experience": "3–6 лет",
+  "salary_": []
+},{
+  "_id": {
+    "$oid": "65291cea79e6450dd36fd6e1"
+  },
+  "name": "Руководитель Лаборатории данных",
+  "experience": "1–3 года",
+  "salary_": []
+},{
+  "_id": {
+    "$oid": "65291ceb79e6450dd36fd6e2"
+  },
+  "name": "Старший специалист модели данных",
+  "experience": "3–6 лет",
+  "salary_": []
+},{
+  "_id": {
+    "$oid": "65291ced79e6450dd36fd6e3"
+  },
+  "name": "Аналитик IIOT",
+  "experience": "1–3 года",
+  "salary_": []
+},{
+  "_id": {
+    "$oid": "65291cee79e6450dd36fd6e4"
+  },
+  "name": "Копирайтер для технологичных продуктов",
+  "experience": "3–6 лет",
+  "salary_": []
+},{
+  "_id": {
+    "$oid": "65291cef79e6450dd36fd6e5"
+  },
+  "name": "Разработчик Java (миркосервисы)",
+  "experience": "3–6 лет",
+  "salary_": []
+},{
+  "_id": {
+    "$oid": "65291cf179e6450dd36fd6e6"
+  },
+  "name": "Аналитик по клиентскому опыту",
+  "experience": "1–3 года",
+  "salary_": []
+},{
+  "_id": {
+    "$oid": "65291cf279e6450dd36fd6e7"
+  },
+  "name": "Методолог (Аналитик / Распорядитель данных)",
+  "experience": "1–3 года",
+  "salary_": []
+},{
+  "_id": {
+    "$oid": "65291cf379e6450dd36fd6e8"
+  },
+  "name": "Спикер курса - разработчик Python, AI, ML (machine learning)",
+  "experience": "не требуется",
+  "salary_": []
+},{
+  "_id": {
+    "$oid": "65291cf479e6450dd36fd6e9"
+  },
+  "name": "Middle Python-разработчик",
+  "experience": "1–3 года",
+  "salary_": []
+},{
+  "_id": {
+    "$oid": "65291cf679e6450dd36fd6ea"
+  },
+  "name": "Разработчик Python",
+  "experience": "3–6 лет",
+  "salary_": []
+},{
+  "_id": {
+    "$oid": "65291cf879e6450dd36fd6eb"
+  },
+  "name": "Старший инженер по автоматизации тестирования, Рантайм рекомендаций",
+  "experience": "3–6 лет",
+  "salary_": []
+},{
+  "_id": {
+    "$oid": "65291cf879e6450dd36fd6ec"
+  },
+  "name": "Руководитель отдела аналитической поддержки физических сервисов",
+  "experience": "3–6 лет",
+  "salary_": []
+},{
+  "_id": {
+    "$oid": "65291cf979e6450dd36fd6ed"
+  },
+  "name": "Cyber Security Engineer / DevSecOps engineer",
+  "experience": "3–6 лет",
+  "salary_": "от 6000 $"
+},{
+  "_id": {
+    "$oid": "65291cfb79e6450dd36fd6ee"
+  },
+  "name": "Аналитик данных (антифрод направление)",
+  "experience": "3–6 лет",
+  "salary_": []
+},{
+  "_id": {
+    "$oid": "65291cfc79e6450dd36fd6ef"
+  },
+  "name": "Программист ABAP",
+  "experience": "3–6 лет",
+  "salary_": []
+},{
+  "_id": {
+    "$oid": "65291cfe79e6450dd36fd6f0"
+  },
+  "name": "Заместитель руководителя по финансовому анализу и планированию",
+  "experience": "1–3 года",
+  "salary_": []
+},{
+  "_id": {
+    "$oid": "65291cff79e6450dd36fd6f1"
+  },
+  "name": "Coordinator",
+  "experience": "3–6 лет",
+  "salary_": []
+},{
+  "_id": {
+    "$oid": "65291d0179e6450dd36fd6f2"
+  },
+  "name": "Аналитик Soft Collection",
+  "experience": "1–3 года",
+  "salary_": []
+},{
+  "_id": {
+    "$oid": "65291d0179e6450dd36fd6f3"
+  },
+  "name": "Руководитель управления CRM",
+  "experience": "3–6 лет",
+  "salary_": "от 300000 ₽"
+},{
+  "_id": {
+    "$oid": "65291d0279e6450dd36fd6f4"
+  },
+  "name": "Full Stack developer Middle (C# NET 4.8 любой JS фреймворк), удаленно",
+  "experience": "3–6 лет",
+  "salary_": []
+},{
+  "_id": {
+    "$oid": "65291d0479e6450dd36fd6f5"
+  },
+  "name": "UX\\UI Дизайнер",
+  "experience": "1–3 года",
+  "salary_": []
+},{
+  "_id": {
+    "$oid": "65291d0579e6450dd36fd6f6"
+  },
+  "name": "Machine Learning Engineer (RecSys)",
+  "experience": "3–6 лет",
+  "salary_": []
+},{
+  "_id": {
+    "$oid": "65291d0679e6450dd36fd6f7"
+  },
+  "name": "Старший системный аналитик (PPMS)",
+  "experience": "3–6 лет",
+  "salary_": []
+},{
+  "_id": {
+    "$oid": "65291d0779e6450dd36fd6f8"
+  },
+  "name": "Senior Системный аналитик",
+  "experience": "3–6 лет",
+  "salary_": []
+},{
+  "_id": {
+    "$oid": "65291d0979e6450dd36fd6f9"
+  },
+  "name": "Менеджер ML Продукта (Проекта) - Цифровизация Ценообразования",
+  "experience": "3–6 лет",
+  "salary_": []
+},{
+  "_id": {
+    "$oid": "65291d0a79e6450dd36fd6fa"
+  },
+  "name": "Senior CVM Manager",
+  "experience": "3–6 лет",
+  "salary_": []
+},{
+  "_id": {
+    "$oid": "65291d0b79e6450dd36fd6fb"
+  },
+  "name": "Системный аналитик (R&D)",
+  "experience": "3–6 лет",
+  "salary_": []
+},{
+  "_id": {
+    "$oid": "65291d0d79e6450dd36fd6fc"
+  },
+  "name": "Корпоративный юрист",
+  "experience": "3–6 лет",
+  "salary_": []
+},{
+  "_id": {
+    "$oid": "65291d0e79e6450dd36fd6fd"
+  },
+  "name": "DBA / архитектор баз данных",
+  "experience": "3–6 лет",
+  "salary_": []
+},{
+  "_id": {
+    "$oid": "65291d0f79e6450dd36fd6fe"
+  },
+  "name": "Middle frontend developer React",
+  "experience": "3–6 лет",
+  "salary_": []
+},{
+  "_id": {
+    "$oid": "65291d1079e6450dd36fd6ff"
+  },
+  "name": "Compliance Director Russia",
+  "experience": "более 6 лет",
+  "salary_": []
+},{
+  "_id": {
+    "$oid": "65291d1179e6450dd36fd700"
+  },
+  "name": "DevOps-инженер/Hadoop администратор (трайб CDO Office)",
+  "experience": "1–3 года",
+  "salary_": []
+},{
+  "_id": {
+    "$oid": "65291d1279e6450dd36fd701"
+  },
+  "name": "1C ERP Analyst",
+  "experience": "3–6 лет",
+  "salary_": []
+},{
+  "_id": {
+    "$oid": "65291d1379e6450dd36fd702"
+  },
+  "name": "Senior IT Recruiter",
+  "experience": "3–6 лет",
+  "salary_": []
+},{
+  "_id": {
+    "$oid": "65291d1579e6450dd36fd703"
+  },
+  "name": "B2b performance маркетолог",
+  "experience": "1–3 года",
+  "salary_": []
+},{
+  "_id": {
+    "$oid": "65291d1679e6450dd36fd704"
+  },
+  "name": "Head of marketing / Директор по маркетингу",
+  "experience": "3–6 лет",
+  "salary_": []
+},{
+  "_id": {
+    "$oid": "65291d1779e6450dd36fd705"
+  },
+  "name": "Делопроизводитель",
+  "experience": "1–3 года",
+  "salary_": []
+},{
+  "_id": {
+    "$oid": "65291d1879e6450dd36fd706"
+  },
+  "name": "Системный аналитик",
+  "experience": "3–6 лет",
+  "salary_": []
+},{
+  "_id": {
+    "$oid": "65291d1979e6450dd36fd707"
+  },
+  "name": "FinTech Product Manager / Payments Gateway",
+  "experience": "3–6 лет",
+  "salary_": []
+},{
+  "_id": {
+    "$oid": "65291d1b79e6450dd36fd708"
+  },
+  "name": "Junior CRM-маркетолог",
+  "experience": "1–3 года",
+  "salary_": []
+},{
+  "_id": {
+    "$oid": "65291d1c79e6450dd36fd709"
+  },
+  "name": "Business Development analyst",
+  "experience": "3–6 лет",
+  "salary_": []
+},{
+  "_id": {
+    "$oid": "65291d1d79e6450dd36fd70a"
+  },
+  "name": "Маркетинговый аналитик-исследователь (DS/ML) в сервис путешествий",
+  "experience": "3–6 лет",
+  "salary_": []
+},{
+  "_id": {
+    "$oid": "65291d1e79e6450dd36fd70b"
+  },
+  "name": "Analyst / Financial Planning and Analysis",
+  "experience": "1–3 года",
+  "salary_": []
+},{
+  "_id": {
+    "$oid": "65291d1f79e6450dd36fd70c"
+  },
+  "name": "Аналитик в отдел скоринга",
+  "experience": "1–3 года",
+  "salary_": []
+},{
+  "_id": {
+    "$oid": "65291d2079e6450dd36fd70d"
+  },
+  "name": "Lead full-stack developer",
+  "experience": "3–6 лет",
+  "salary_": []
+},{
+  "_id": {
+    "$oid": "65291d2279e6450dd36fd70e"
+  },
+  "name": "Экономист-аналитик (junior data scientist)",
+  "experience": "не требуется",
+  "salary_": []
+},{
+  "_id": {
+    "$oid": "65291d2379e6450dd36fd70f"
+  },
+  "name": "Data Scientist (главный исследователь данных по КАСКО)",
+  "experience": "1–3 года",
+  "salary_": []
+},{
+  "_id": {
+    "$oid": "65291d2479e6450dd36fd710"
+  },
+  "name": "Продуктовый аналитик в Карты",
+  "experience": "3–6 лет",
+  "salary_": []
+},{
+  "_id": {
+    "$oid": "65291d2579e6450dd36fd711"
+  },
+  "name": "Корпоративный секретарь",
+  "experience": "3–6 лет",
+  "salary_": []
+},{
+  "_id": {
+    "$oid": "65291d2779e6450dd36fd712"
+  },
+  "name": "Data scientist (Управление скоринга и Биг Дата)",
+  "experience": "1–3 года",
+  "salary_": []
+},{
+  "_id": {
+    "$oid": "65291d2879e6450dd36fd713"
+  },
+  "name": "Руководитель проектов в Data Office",
+  "experience": "3–6 лет",
+  "salary_": []
+},{
+  "_id": {
+    "$oid": "65291d2979e6450dd36fd714"
+  },
+  "name": "Аналитик",
+  "experience": "не требуется",
+  "salary_": []
+},{
+  "_id": {
+    "$oid": "65291d2a79e6450dd36fd715"
+  },
+  "name": "Руководитель по продукту \"Управление оттоком\"\\CVM",
+  "experience": "1–3 года",
+  "salary_": []
+},{
+  "_id": {
+    "$oid": "65291d2c79e6450dd36fd716"
+  },
+  "name": "Математик-программист",
+  "experience": "3–6 лет",
+  "salary_": []
+},{
+  "_id": {
+    "$oid": "65291d2d79e6450dd36fd717"
+  },
+  "name": "Middle Data Scientist в Центр маркетинговой аналитики (Big Data)",
+  "experience": "3–6 лет",
+  "salary_": []
+},{
+  "_id": {
+    "$oid": "65291d2e79e6450dd36fd718"
+  },
+  "name": "Junior ML Ops Engineer",
+  "experience": "1–3 года",
+  "salary_": []
+},{
+  "_id": {
+    "$oid": "65291d2f79e6450dd36fd719"
+  },
+  "name": "Ведущий программист 1С / Руководитель разработки 1С",
+  "experience": "3–6 лет",
+  "salary_": []
+},{
+  "_id": {
+    "$oid": "65291d3179e6450dd36fd71a"
+  },
+  "name": "Старший программист 1С",
+  "experience": "3–6 лет",
+  "salary_": []
+},{
+  "_id": {
+    "$oid": "65291d3279e6450dd36fd71b"
+  },
+  "name": "Data scientist (Валидатор моделей банковской и торговой книг)",
+  "experience": "1–3 года",
+  "salary_": []
+},{
+  "_id": {
+    "$oid": "65291d3479e6450dd36fd71c"
+  },
+  "name": "Младший консультант 1С (логистика)",
+  "experience": "1–3 года",
+  "salary_": []
+},{
+  "_id": {
+    "$oid": "65291d3479e6450dd36fd71d"
+  },
+  "name": "Ведущий консультант-аналитик 1С (регламентированный учет)",
+  "experience": "3–6 лет",
+  "salary_": []
+},{
+  "_id": {
+    "$oid": "65291d3579e6450dd36fd71e"
+  },
+  "name": "BI Developer & Data Analyst",
+  "experience": "3–6 лет",
+  "salary_": "от 2500 до 3000 $"
+},{
+  "_id": {
+    "$oid": "65291d3679e6450dd36fd71f"
+  },
+  "name": "Senior Data Scientist (BigData)",
+  "experience": "3–6 лет",
+  "salary_": []
+},{
+  "_id": {
+    "$oid": "65291d3879e6450dd36fd720"
+  },
+  "name": "Data Engineer (Пульс)",
+  "experience": "3–6 лет",
+  "salary_": []
+},{
+  "_id": {
+    "$oid": "65291d3979e6450dd36fd721"
+  },
+  "name": "Data Scientist (Pricing)",
+  "experience": "1–3 года",
+  "salary_": []
+},{
+  "_id": {
+    "$oid": "65291d3a79e6450dd36fd722"
+  },
+  "name": "Исследователь/Research Scientist (Computer Science)",
+  "experience": "3–6 лет",
+  "salary_": []
+},{
+  "_id": {
+    "$oid": "65291d3c79e6450dd36fd723"
+  },
+  "name": "Аналитик данных / Supply Data Analyst",
+  "experience": "3–6 лет",
+  "salary_": []
+},{
+  "_id": {
+    "$oid": "65291d3d79e6450dd36fd724"
+  },
+  "name": "Data Scientist (Синтез речи)",
+  "experience": "3–6 лет",
+  "salary_": []
+},{
+  "_id": {
+    "$oid": "65291d3f79e6450dd36fd725"
+  },
+  "name": "Senior Data Scientist (R&D, рекомендательные системы)",
+  "experience": "3–6 лет",
+  "salary_": "до 400000 ₽"
+},{
+  "_id": {
+    "$oid": "65291d4079e6450dd36fd726"
+  },
+  "name": "NLP Team Lead LLM",
+  "experience": "1–3 года",
+  "salary_": []
+},{
+  "_id": {
+    "$oid": "65291d4179e6450dd36fd727"
+  },
+  "name": "Project Manager AI-проекта",
+  "experience": "1–3 года",
+  "salary_": []
+},{
+  "_id": {
+    "$oid": "65291d4279e6450dd36fd728"
+  },
+  "name": "Senior Data Engineer/Data Engineer",
+  "experience": "3–6 лет",
+  "salary_": []
+},{
+  "_id": {
+    "$oid": "65291d4379e6450dd36fd729"
+  },
+  "name": "Junior Data Analyst/BI developer",
+  "experience": "не требуется",
+  "salary_": []
+},{
+  "_id": {
+    "$oid": "65291d4479e6450dd36fd72a"
+  },
+  "name": "Data Scientist / ML-инженер (Big Data)",
+  "experience": "3–6 лет",
+  "salary_": []
+},{
+  "_id": {
+    "$oid": "65291d4579e6450dd36fd72b"
+  },
+  "name": "Биоинформатик",
+  "experience": "1–3 года",
+  "salary_": []
+},{
+  "_id": {
+    "$oid": "65291d4779e6450dd36fd72c"
+  },
+  "name": "Data Engineer",
+  "experience": "3–6 лет",
+  "salary_": []
+},{
+  "_id": {
+    "$oid": "65291d4879e6450dd36fd72d"
+  },
+  "name": "Data Engineer",
+  "experience": "3–6 лет",
+  "salary_": []
+},{
+  "_id": {
+    "$oid": "65291d4979e6450dd36fd72e"
+  },
+  "name": "Lead Data Scientist NLP в SberAI",
+  "experience": "3–6 лет",
+  "salary_": []
+},{
+  "_id": {
+    "$oid": "65291d4a79e6450dd36fd72f"
+  },
+  "name": "Валидатор моделей производных финансовых инструментов (Data Scientist)",
+  "experience": "1–3 года",
+  "salary_": []
+},{
+  "_id": {
+    "$oid": "65291d4c79e6450dd36fd730"
+  },
+  "name": "Data scientist",
+  "experience": "1–3 года",
+  "salary_": []
+},{
+  "_id": {
+    "$oid": "65291d4d79e6450dd36fd731"
+  },
+  "name": "Data Science аналитик",
+  "experience": "3–6 лет",
+  "salary_": []
+},{
+  "_id": {
+    "$oid": "65291d4e79e6450dd36fd732"
+  },
+  "name": "Data Analyst",
+  "experience": "1–3 года",
+  "salary_": []
+},{
+  "_id": {
+    "$oid": "65291d4f79e6450dd36fd733"
+  },
+  "name": "Researcher/Sales Intern",
+  "experience": "1–3 года",
+  "salary_": []
+},{
+  "_id": {
+    "$oid": "65291d5179e6450dd36fd734"
+  },
+  "name": "Data Scientist",
+  "experience": "3–6 лет",
+  "salary_": []
+},{
+  "_id": {
+    "$oid": "65291d5279e6450dd36fd735"
+  },
+  "name": "Руководитель направления Data Engineer",
+  "experience": "3–6 лет",
+  "salary_": []
+},{
+  "_id": {
+    "$oid": "65291d5379e6450dd36fd736"
+  },
+  "name": "Data Scientist (Центр валидации моделей КИБ)",
+  "experience": "3–6 лет",
+  "salary_": []
+},{
+  "_id": {
+    "$oid": "65291d5479e6450dd36fd737"
+  },
+  "name": "Data Analyst",
+  "experience": "3–6 лет",
+  "salary_": []
+},{
+  "_id": {
+    "$oid": "65291d5679e6450dd36fd738"
+  },
+  "name": "BI analyst",
+  "experience": "1–3 года",
+  "salary_": []
+},{
+  "_id": {
+    "$oid": "65291d5779e6450dd36fd739"
+  },
+  "name": "Senior Data Scientist/ML Engineer (команда SmartSearch)",
+  "experience": "3–6 лет",
+  "salary_": []
+},{
+  "_id": {
+    "$oid": "65291d5879e6450dd36fd73a"
+  },
+  "name": "Lead Data Science",
+  "experience": "3–6 лет",
+  "salary_": []
+},{
+  "_id": {
+    "$oid": "65291d5a79e6450dd36fd73b"
+  },
+  "name": "Senior Data scientist (RnD в Центр валидации моделей КИБ)",
+  "experience": "3–6 лет",
+  "salary_": []
+},{
+  "_id": {
+    "$oid": "65291d5a79e6450dd36fd73c"
+  },
+  "name": "Data инженер",
+  "experience": "1–3 года",
+  "salary_": []
+},{
+  "_id": {
+    "$oid": "65291d5c79e6450dd36fd73d"
+  },
+  "name": "Senior\\Middle+ Data Scientist",
+  "experience": "3–6 лет",
+  "salary_": []
+},{
+  "_id": {
+    "$oid": "65291d5d79e6450dd36fd73e"
+  },
+  "name": "Data Scientist в Блок Риски Сбера",
+  "experience": "1–3 года",
+  "salary_": []
+},{
+  "_id": {
+    "$oid": "65291d5e79e6450dd36fd73f"
+  },
+  "name": "Data Science Team Lead (Adv Platform)",
+  "experience": "3–6 лет",
+  "salary_": []
+},{
+  "_id": {
+    "$oid": "65291d5f79e6450dd36fd740"
+  },
+  "name": "Data scientist",
+  "experience": "1–3 года",
+  "salary_": []
+},{
+  "_id": {
+    "$oid": "65291d6079e6450dd36fd741"
+  },
+  "name": "Data Science Specialist",
+  "experience": "1–3 года",
+  "salary_": []
+},{
+  "_id": {
+    "$oid": "65291d6279e6450dd36fd742"
+  },
+  "name": "Аналитик Data Science",
+  "experience": "1–3 года",
+  "salary_": []
+},{
+  "_id": {
+    "$oid": "65291d6379e6450dd36fd743"
+  },
+  "name": "Data Scientist (Middle)",
+  "experience": "1–3 года",
+  "salary_": []
+},{
+  "_id": {
+    "$oid": "65291d6479e6450dd36fd744"
+  },
+  "name": "Senior Data scientist (Управление рисками корпоративных клиентов)",
+  "experience": "3–6 лет",
+  "salary_": []
+},{
+  "_id": {
+    "$oid": "65291d6579e6450dd36fd745"
+  },
+  "name": "Data engineer",
+  "experience": "1–3 года",
+  "salary_": []
+},{
+  "_id": {
+    "$oid": "65291d6679e6450dd36fd746"
+  },
+  "name": "Senior Data Scientist (R&D направление блока риски)",
+  "experience": "1–3 года",
+  "salary_": []
+},{
+  "_id": {
+    "$oid": "65291d6779e6450dd36fd747"
+  },
+  "name": "Data Scientist (Senior)",
+  "experience": "3–6 лет",
+  "salary_": []
+},{
+  "_id": {
+    "$oid": "65291d6879e6450dd36fd748"
+  },
+  "name": "Data-Scientist (Опыт работы ОБЯЗАТЕЛЕН от 1 года)",
+  "experience": "1–3 года",
+  "salary_": []
+},{
+  "_id": {
+    "$oid": "65291d6979e6450dd36fd749"
+  },
+  "name": "Head of Data Science/Руководитель Data Science",
+  "experience": "3–6 лет",
+  "salary_": []
+},{
+  "_id": {
+    "$oid": "65291d6a79e6450dd36fd74a"
+  },
+  "name": "Руководитель направления Data Science",
+  "experience": "3–6 лет",
+  "salary_": []
+},{
+  "_id": {
+    "$oid": "65291d6c79e6450dd36fd74b"
+  },
+  "name": "Director of Data Engineering",
+  "experience": "более 6 лет",
+  "salary_": []
+},{
+  "_id": {
+    "$oid": "65291d6d79e6450dd36fd74c"
+  },
+  "name": "Data scientist NLP (middle)",
+  "experience": "1–3 года",
+  "salary_": []
+},{
+  "_id": {
+    "$oid": "65291d6e79e6450dd36fd74d"
+  },
+  "name": "Senior Data Scientist CV (Генеративный дизайн)",
+  "experience": "3–6 лет",
+  "salary_": []
+},{
+  "_id": {
+    "$oid": "65291d7079e6450dd36fd74e"
+  },
+  "name": "Архитектор проекта (Data Science models + внутрикорпоративный портал)",
+  "experience": "более 6 лет",
+  "salary_": []
+},{
+  "_id": {
+    "$oid": "65291d7179e6450dd36fd74f"
+  },
+  "name": "Data Engineer / Дата-инженер (Middle)",
+  "experience": "1–3 года",
+  "salary_": "от 250000 до 300000 ₽"
+},{
+  "_id": {
+    "$oid": "65291d7279e6450dd36fd750"
+  },
+  "name": "Data Science специалист",
+  "experience": "3–6 лет",
+  "salary_": "от 192500 ₽"
+},{
+  "_id": {
+    "$oid": "65291d7379e6450dd36fd751"
+  },
+  "name": "Data Scientist (NLP, NER)",
+  "experience": "1–3 года",
+  "salary_": []
+},{
+  "_id": {
+    "$oid": "65291d7479e6450dd36fd752"
+  },
+  "name": "Data Scientist LLM (Global markets)",
+  "experience": "1–3 года",
+  "salary_": []
+},{
+  "_id": {
+    "$oid": "65291d7579e6450dd36fd753"
+  },
+  "name": "Data Science Team Leader Generative AI",
+  "experience": "более 6 лет",
+  "salary_": []
+},{
+  "_id": {
+    "$oid": "65291d7779e6450dd36fd754"
+  },
+  "name": "Team lead Data analytics",
+  "experience": "3–6 лет",
+  "salary_": []
+},{
+  "_id": {
+    "$oid": "65291d7779e6450dd36fd755"
+  },
+  "name": "Lead Data analyst",
+  "experience": "3–6 лет",
+  "salary_": []
+},{
+  "_id": {
+    "$oid": "65291d7979e6450dd36fd756"
+  },
+  "name": "Data engineer",
+  "experience": "1–3 года",
+  "salary_": []
+},{
+  "_id": {
+    "$oid": "65291d7a79e6450dd36fd757"
+  },
+  "name": "Программист Python Data science",
+  "experience": "1–3 года",
+  "salary_": []
+},{
+  "_id": {
+    "$oid": "65291d7c79e6450dd36fd758"
+  },
+  "name": "Data Analyst",
+  "experience": "1–3 года",
+  "salary_": []
+},{
+  "_id": {
+    "$oid": "65291d7d79e6450dd36fd759"
+  },
+  "name": "Team Lead Data Science",
+  "experience": "3–6 лет",
+  "salary_": []
+},{
+  "_id": {
+    "$oid": "65291d7f79e6450dd36fd75a"
+  },
+  "name": "Middle Data science",
+  "experience": "1–3 года",
+  "salary_": []
+},{
+  "_id": {
+    "$oid": "65291d8079e6450dd36fd75b"
+  },
+  "name": "Data Scientist в b2c направление",
+  "experience": "3–6 лет",
+  "salary_": []
+},{
+  "_id": {
+    "$oid": "65291d8179e6450dd36fd75c"
+  },
+  "name": "Data Scientist (команда Поиска)",
+  "experience": "3–6 лет",
+  "salary_": "от 350000 ₽"
+}]
